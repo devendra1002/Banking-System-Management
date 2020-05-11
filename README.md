@@ -1,6 +1,6 @@
 # Online-Banking-System
 # Description
-Online banking system is java based Software built to maintain all transactions which carried out in banks such as balance enquiry, withdrawal of amount and deposit money. Users can maintain their accounts by themselves after getting verified by server of bank. All records will be updated in the database of the bank afetr each transaction. 
+Online banking system is java based Software built to maintain all transactions which carried out in banks such as balance enquiry, withdrawal of amount and deposit money. Users can maintain their accounts by themselves after getting verified by server of bank. All records will be updated in the database of the bank after each transaction. 
 # Implementation
 1. Implemented using Java Programming language only.
 2. Below steps can be followed for implentation.
