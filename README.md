@@ -3,7 +3,7 @@
 Online banking system is java based Software built to maintain all transactions which carried out in banks such as balance enquiry, withdrawal of amount and deposit money. Users can maintain their accounts by themselves after getting verified by server of bank. All records will be updated in the database of the bank after each transaction. 
 # Implementation
 1. Implemented using Java Programming language only.
-2. Below steps can be followed for implentation.
+2. Below steps can be followed for implementation.
 
 - Maintain a database where all records of the customers like Account number, Balance, transaction history, Address, Account type, Name, Email id etc. can be stored. (for this purpose MySql server can be installed which will store all the records in the form of table).
 - After creating database, it must connect with Java using java database connectivity. ("file: JDBC.java" contains code to link bank server to Java Runtime Environment).
